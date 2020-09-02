@@ -109,10 +109,10 @@ _To assure propagation of ESLint changes within VS Code, uninstall the ESLint ex
 * [Babel](https://babeljs.io/) - A toolchain for converting ECMAScript 2015+ code into a backwards compatible JavaScript.
 
 ## Authors
-* [Patrick Young](https://github.com/patrick-s-young) extending the work of [Vincent Chee](https://github.com/davinchee) @davinchee
+* [Patrick Young](https://github.com/patrick-s-young) extending the work of [Vincent Chee](https://github.com/davinchee)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Aknowledgements
-* [Eric Stallings](https://github.com/EricStallings) for the inspiration. @EricStallings
+* [Eric Stallings](https://github.com/EricStallings) for the inspiration.
