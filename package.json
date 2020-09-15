@@ -1,7 +1,7 @@
 {
   "name": "react-ts-eslint-webpack-babel",
   "version": "1.0.0",
-  "description": "",
+  "description": "Boilerplate for React / TypeScript / ESLint / Webpack / Babel project with Directory Aliasing",
   "main": "index.js",
   "scripts": {
     "bundle": "webpack",
