@@ -62,7 +62,7 @@ _Would you like to install them now with npm?_ No / **Yes**
 In addition to installing the modules, ESLint creates the **.eslintrc.json** configuration file in the root directory of your project.  
   
 ## Jest Configuration
-**Jest** with **React Testing Library** required the installatin of these modules:
+**Jest** with **React Testing Library** required the installation of these modules:
   ```
   $ npm i -D @testing-library/jest-dom @testing-library/react @babel-jest jest
   ```
