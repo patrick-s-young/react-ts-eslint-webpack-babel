@@ -20,8 +20,7 @@
 		"jsx": "react",
 		"baseUrl": "./src",
 		"paths": {
-			"Components/*": ["components/*"],
-			"Styles/*": ["styles/*"],
+			"Components/*": ["components/*"]
 		},
 		"lib": [
 			"es2015",
