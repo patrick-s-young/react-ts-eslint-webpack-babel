@@ -1,6 +1,6 @@
 import React from 'react';
 import { screen, render, cleanup, fireEvent } from '@testing-library/react'
-import Input from 'Components/Input/Input';
+import Input from 'components/input/Input';
 
 let input, inputID;
 
