@@ -1,6 +1,6 @@
 import React from 'react';
-import Input from 'Components/Input/Input';
-import 'Components/App/App.css';
+import Input from 'components/input/Input';
+import 'app/app.css';
 
 const App: React.FC = () => {
 	return(

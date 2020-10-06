@@ -1,6 +1,6 @@
 {
   "name": "react-ts-eslint-webpack-babel",
-  "version": "1.1.0",
+  "version": "1.2.1",
   "description": "Project Boilerplate for React / TypeScript / ESLint / Webpack / Babel / Jest with Directory Aliasing",
   "repository": {
     "type": "git",
