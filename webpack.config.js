@@ -3,12 +3,10 @@ const HtmlWebpackPlugin = require('html-webpack-plugin');
 
 module.exports = {
   entry: './src/index',
-
   output: {
     path: path.join(__dirname, '/dist'),
     filename: 'bundle.js',
   },
-
   resolve: {
     extensions: ['.ts', '.tsx', '.js'],
     alias: {
@@ -19,7 +17,6 @@ module.exports = {
       utils: path.resolve(__dirname, './src/utils/')
     },
   },
-
   module: {
     rules: [
       {
@@ -35,10 +32,13 @@ module.exports = {
       }
     ]
   },
-  
   plugins: [
     new HtmlWebpackPlugin({
       template: './src/index.html'
     })
-  ]
+  ],
+  devServer: {
+    contentBase: path.join(__dirname, 'public')
+  },
+  devtool: 'inline-source-map'
 };
