@@ -20,7 +20,11 @@
 		"jsx": "react",
 		"baseUrl": "./src",
 		"paths": {
-			"Components/*": ["components/*"]
+			"api/*": ["api/*"],
+			"app/*": ["app/*"],
+			"components/*": ["components/*"],
+			"features/*": ["features/*"],
+			"utils/*": ["utils/*"]
 		},
 		"lib": [
 			"es2015",
