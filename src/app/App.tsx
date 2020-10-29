@@ -13,7 +13,7 @@ const App: React.FC = () => {
 					<h1>{greeting}</h1>
 				</div>
 				<div>
-					<Input id="hello-input" label="Hello Input" />
+					<Input id="hello-input" label="Hello Input!" />
 				</div>
 			</div>
 	);
