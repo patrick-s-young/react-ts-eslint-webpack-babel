@@ -7,7 +7,7 @@ export interface AppState {
 
 const initialState: Partial<AppState> = {
   isLoading: undefined,
-  greeting: 'Hello World'
+  greeting: 'Hello World!'
 }
 
 const appSlice = createSlice({
